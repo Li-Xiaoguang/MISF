@@ -1,2 +1,21 @@
 
 checkpoints/.DS_Store
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/MISF.iml
+.idea/modules.xml
+.idea/vcs.xml
+src/__pycache__/utils.cpython-37.pyc
+src/__pycache__/networks.cpython-37.pyc
+src/__pycache__/models.cpython-37.pyc
+src/__pycache__/misf.cpython-37.pyc
+src/__pycache__/metrics.cpython-37.pyc
+src/__pycache__/loss.cpython-37.pyc
+src/__pycache__/dataset.cpython-37.pyc
+src/__pycache__/config.cpython-37.pyc
+src/__pycache__/__init__.cpython-37.pyc
+kpn/__pycache__/utils.cpython-37.pyc
+kpn/__pycache__/network.cpython-37.pyc
+kpn/__pycache__/config.cpython-37.pyc
+__pycache__/main.cpython-37.pyc
